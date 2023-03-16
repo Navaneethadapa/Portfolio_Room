@@ -148,9 +148,9 @@ svg{
   align-items: center;
   position: absolute;
   top: 50%;
-  left: 50%;
-  font-weight: 500;
-  font-size: 16px;
+  left: 60%;
+  font-weight: 550;
+  font-size: 18px;
   color: var(--color-text);
   transform: translate(-50%, -50%);
 }
